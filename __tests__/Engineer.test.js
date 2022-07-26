@@ -26,6 +26,6 @@ test('gets employee Name', () => {
     
 })
 
-test('gets employee Name', () => {
+test('gets employee Github', () => {
     
 })

@@ -6,3 +6,19 @@ test('creates an Intern object', () => {
     expect(intern.name).toBe('Fred');
     expect(intern.school).toBe('Ohio State University');
 });
+
+test('gets employee name', () => {
+
+})
+
+test('gets employee Id', () => {
+    
+})
+
+test('gets employee email', () => {
+    
+})
+
+test('gets employee role', () => {
+    
+})
